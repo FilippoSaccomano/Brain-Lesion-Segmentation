@@ -1,0 +1,22 @@
+# MATLAB data files
+*.mat
+
+# MATLAB autosave files
+*.asv
+
+# MATLAB temporary files
+*.m~
+
+# Build outputs
+*.mex*
+*.p
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+*.swp
+*.swo
+*~
